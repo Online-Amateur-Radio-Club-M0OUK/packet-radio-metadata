@@ -9,5 +9,5 @@ augments:
     properties:
       lat: 51.648062
       lon: 0.0021444261
-      agl: 3m
-      asl: 74m
+      agl: 3
+      asl: 74
