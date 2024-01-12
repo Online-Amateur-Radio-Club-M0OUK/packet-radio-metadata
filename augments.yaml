@@ -1,0 +1,13 @@
+augments:
+  GB7RDG:
+    properties:
+      lat: 51.447256 
+      lon: -1.0268616
+      agl: 7
+      asl: 80
+  MB7NGP:
+    properties:
+      lat: 51.648062
+      lon: 0.0021444261
+      agl: 3m
+      asl: 74m
