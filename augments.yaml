@@ -11,3 +11,9 @@ augments:
       lon: 0.0021444261
       agl: 3
       asl: 74
+  MB7NDH:
+    properties:
+      lat: 56.038342
+      lon: -3.358650
+      agl: 15
+      asl: 35
