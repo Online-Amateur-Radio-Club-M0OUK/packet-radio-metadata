@@ -1,13 +1,8 @@
 augments:
-  GB7RDG:
+  G4FDL:
     properties:
-      lat: 51.447256 
-      lon: -1.0268616
-      agl: 7
-      asl: 80
-  MB7NGP:
-    properties:
-      lat: 51.648062
-      lon: 0.0021444261
-      agl: 3
-      asl: 74
+      lat: 53.42167 
+      lon: -2.720623
+      agl: 5
+      asl: 62
+ 
