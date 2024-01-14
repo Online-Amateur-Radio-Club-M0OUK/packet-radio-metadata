@@ -27,3 +27,25 @@ augments:
       lon: -2.720623
       agl: 5
       asl: 62
+  GB7WOD:
+    properties:
+      lat: 51.458929
+      lon: -0.88155338
+      asl: 41
+  GB7WOK:
+    properties:
+      lat: 51.40490
+      lon: -0.82239
+      agl: 3
+  GB7IOW:
+    properties:
+      lat: 50.71908426981329
+      lon: -1.3690351090545023
+  MB7NSC:
+    properties:
+      lat: 50.873539
+      lon: -2.285916
+  GB7GDT:
+    properties:
+      lat: 51.033010
+      lon: -2.2865934
