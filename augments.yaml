@@ -17,3 +17,9 @@ augments:
       lon: -3.358650
       agl: 15
       asl: 35
+  G4FDL:
+    properties:
+      lat: 53.42167 
+      lon: -2.720623
+      agl: 5
+      asl: 62
