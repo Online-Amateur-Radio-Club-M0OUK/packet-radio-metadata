@@ -19,8 +19,8 @@ augments:
       asl: 35
   MM3NDH:
     properties:
-      lat: 56.038342
-      lon: -3.358651
+      lat: 56.038347
+      lon: -3.358655
   G4FDL:
     properties:
       lat: 53.42167 
