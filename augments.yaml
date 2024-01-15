@@ -49,3 +49,9 @@ augments:
     properties:
       lat: 51.033010
       lon: -2.2865934
+  MB7NKL:
+    properties:
+      lat: 55.997453
+      lon: -4.037495
+      asl: 222
+      agl: 3
