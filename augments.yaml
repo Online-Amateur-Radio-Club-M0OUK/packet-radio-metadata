@@ -5,6 +5,12 @@ augments:
       lon: -1.0268616
       agl: 7
       asl: 80
+  GB7RDG-8:
+    properties:
+      lat: 51.447000
+      lon: -1.0268000
+      agl: 7
+      asl: 75
   MB7NGP:
     properties:
       lat: 51.648062
