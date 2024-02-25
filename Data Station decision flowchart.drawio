@@ -1,0 +1,79 @@
+<mxfile host="app.diagrams.net" modified="2024-02-25T15:56:21.518Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="goUttLtyTo-aoDbbTsjL" version="23.1.6" type="github">
+  <diagram name="Page-1" id="oqy13reSIsExZen3s6Ef">
+    <mxGraphModel dx="3813" dy="1637" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-1" value="Crack on. It isn&#39;t a Data Station as defined in the guidance notes.&lt;br&gt;Nothing to register with ETCC." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="-300" y="820" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-2" value="Crack on under your own callsign.&lt;br&gt;Register with ETCC if you want." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="460" y="820" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-3" value="Register with ETCC for frequency coordination, and operate under a callsign they issue." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="820" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-4" value="Sorry, not permitted" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry y="820" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-5" value="I think I want/need to run a Data Station, as in Condition 6 section 17/18" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="115" y="80" width="170" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-7" value="Yes" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-6" target="gJ4YCFuESwjOgwPPhVvf-4">
+          <mxGeometry x="-0.9036" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-14" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-6" target="gJ4YCFuESwjOgwPPhVvf-13">
+          <mxGeometry x="-0.5" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-6" value="Foundation?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="440" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-12" value="Only for me" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-8" target="gJ4YCFuESwjOgwPPhVvf-1">
+          <mxGeometry x="-0.8115" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-8" value="What kind of usage?" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="150" y="270" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-9" value="Third party and self" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-8" target="gJ4YCFuESwjOgwPPhVvf-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-5" target="gJ4YCFuESwjOgwPPhVvf-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-15" value="Up to 5W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-13" target="gJ4YCFuESwjOgwPPhVvf-2">
+          <mxGeometry x="-0.7027" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="640" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-20" value="More than 25W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-13" target="gJ4YCFuESwjOgwPPhVvf-4">
+          <mxGeometry x="-0.6136" relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="95" y="640" />
+            </Array>
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-21" value="5 to 25W" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gJ4YCFuESwjOgwPPhVvf-13" target="gJ4YCFuESwjOgwPPhVvf-3">
+          <mxGeometry x="-0.7143" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-13" value="Power (ERP)" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="275" y="590" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-23" value="In all cases:&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;Take reasonable steps to minimise risk of undue interference to other authorised users and be ready to provide evidence to Ofcom on request. Close down within 2 hours upon request by Ofcom. Ensure use only by licencees.&lt;/span&gt;&lt;div&gt;&lt;br/&gt;&lt;/div&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.document2;whiteSpace=wrap;size=0.25;" vertex="1" parent="1">
+          <mxGeometry y="940" width="455" height="110" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
