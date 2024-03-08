@@ -67,3 +67,9 @@ augments:
       lon: -4.3335315
       asl: 128
       agl: 7
+  GB7DLV:
+    properties:
+      lat: 54.847300 
+      lon: -1.821700
+      agl: 5
+      asl: 262
