@@ -79,3 +79,9 @@ augments:
       lon: -1.607380
       agl: 7
       asl: 80
+  GB7WFR:
+    properties:
+      lat: 54.981634
+      lon: -1.55715
+      agl: 8
+      asl: 32
