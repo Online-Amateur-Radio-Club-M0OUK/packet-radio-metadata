@@ -73,3 +73,9 @@ augments:
       lon: -1.821700
       agl: 5
       asl: 262
+  GB7CNR:
+    properties:
+      lat: 55.085020
+      lon: -1.607380
+      agl: 7
+      asl: 80
