@@ -85,3 +85,9 @@ augments:
       lon: -1.55715
       agl: 8
       asl: 32
+  GB7IJC:
+    properties:
+      lat: 55.02974
+      lon: -1.54938
+      agl: 6
+      asl: 72
