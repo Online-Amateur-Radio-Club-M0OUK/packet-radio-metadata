@@ -91,3 +91,31 @@ augments:
       lon: -1.54938
       agl: 6
       asl: 72
+  G4OTJ:
+    properties:
+      lat: 51.32820
+      lon: -2.54332
+  G4PDC:
+    properties:
+      lat: 51.30725
+      lon: -2.50388
+  G3IOI:
+    properties:
+      lat: 51.41554
+      lon: -2.56064
+  M0SBY:
+    properties:
+      lat: 51.23936
+      lon: -2.45043
+  G0DPW:
+    properties:
+      lat: 51.41746
+      lon: -2.49891
+  G4NKT:
+    properties:
+      lat: 51.48620
+      lon: -2.48421
+  G4KVI:
+    properties:
+      lat: 51.28582
+      lon: -2.48528
