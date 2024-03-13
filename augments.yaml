@@ -119,3 +119,7 @@ augments:
     properties:
       lat: 51.28582
       lon: -2.48528
+  G3ULT:
+    properties:
+      lat: 51.506826
+      lon: -1.0811393
