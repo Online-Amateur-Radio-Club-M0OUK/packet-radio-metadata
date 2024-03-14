@@ -97,16 +97,16 @@ augments:
       lon: -2.54332
   G4PDC:
     properties:
-      lat: 51.30725
-      lon: -2.50388
+      lat: 51.31210
+      lon: -2.49047
   G3IOI:
     properties:
       lat: 51.41554
       lon: -2.56064
   M0SBY:
     properties:
-      lat: 51.23936
-      lon: -2.45043
+      lat: 51.24067
+      lon: -2.47622
   G0DPW:
     properties:
       lat: 51.41746
