@@ -126,3 +126,7 @@ augments:
   PE1RRR:
     properties:
       infourl: https://eindhoven.space/radio-experiments/packet-radio/bpq-technicals/bpq-mail/forwarding-mail-to-pe1rrr-bbs/
+  G0NZO:
+    properties:
+      lat: 50.733687
+      lon: -1.927480
