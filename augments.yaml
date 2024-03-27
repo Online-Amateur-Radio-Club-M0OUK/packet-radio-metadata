@@ -5,12 +5,7 @@ augments:
       lon: -1.0268616
       agl: 7
       asl: 80
-  GB7RDG-8:
-    properties:
-      lat: 51.447000
-      lon: -1.0268000
-      agl: 7
-      asl: 75
+      infourl: https://ukpacketradio.network/nodes:gb7rdg
   MB7NGP:
     properties:
       lat: 51.648062
@@ -130,3 +125,7 @@ augments:
     properties:
       lat: 50.733687
       lon: -1.927480
+  M0EYT:
+    properties:
+      lat: 50.778206
+      lon: -2.031090
