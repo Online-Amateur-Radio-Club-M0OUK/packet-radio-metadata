@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-25T16:52:10.773Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="O15OiLbv_GvWhdu1vqm7" version="23.1.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-30T15:32:49.376Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36" etag="umzbVcodnFg0FxqmZuqv" version="23.1.6" type="device">
   <diagram name="Page-1" id="oqy13reSIsExZen3s6Ef">
-    <mxGraphModel dx="1784" dy="1355" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2924" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,10 +8,10 @@
           <mxGeometry x="-300" y="820" width="260" height="60" as="geometry" />
         </mxCell>
         <mxCell id="gJ4YCFuESwjOgwPPhVvf-2" value="Crack on under your own callsign.&lt;br&gt;Register / coordinate with ETCC if you wish (not compulsory)." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="530" y="810" width="190" height="60" as="geometry" />
+          <mxGeometry x="530" y="820" width="190" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="gJ4YCFuESwjOgwPPhVvf-3" value="Register with ETCC for frequency coordination, and operate under a callsign they issue. You&#39;ll get a Frequency Assignment Certificate and a listing on ukrepeater.net. Grounds for refusal limited to inability to coordinate frequency." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
-          <mxGeometry x="240" y="800" width="250" height="100" as="geometry" />
+        <mxCell id="gJ4YCFuESwjOgwPPhVvf-3" value="Register with ETCC for frequency coordination, and operate either under a callsign they issue or your own (which they&#39;ll &quot;bless&quot; in their system). You&#39;ll get a Frequency Assignment Certificate and a listing on ukrepeater.net. Grounds for refusal limited to inability to coordinate frequency." style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
+          <mxGeometry x="240" y="785" width="250" height="130" as="geometry" />
         </mxCell>
         <mxCell id="gJ4YCFuESwjOgwPPhVvf-4" value="Sorry, not permitted under this procedure" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" parent="1" vertex="1">
           <mxGeometry y="820" width="190" height="60" as="geometry" />
