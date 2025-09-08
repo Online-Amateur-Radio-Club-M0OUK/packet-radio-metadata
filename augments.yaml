@@ -129,3 +129,10 @@ augments:
     properties:
       lat: 50.778206
       lon: -2.031090
+  GB7FCI:
+    properties:
+      lat: 53.825089
+      lon: -3.03319
+      agl: 2
+      asl: 20
+      infourl: https://gb7fci.net/gb7fci-details/
