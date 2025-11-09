@@ -136,3 +136,7 @@ augments:
       agl: 2
       asl: 20
       infourl: https://gb7fci.net/gb7fci-details/
+  GB7MNK:
+    properties:
+      lat: 52.069848
+      lon: -0.74940
